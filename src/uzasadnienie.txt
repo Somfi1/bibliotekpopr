@@ -1,0 +1,1 @@
+Wybrałem ArrayList dla tego że to jest szybsze i wygodniejsze według mnie.
